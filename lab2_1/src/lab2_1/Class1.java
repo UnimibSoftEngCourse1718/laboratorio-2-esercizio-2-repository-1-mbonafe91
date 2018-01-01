@@ -6,7 +6,7 @@ public class Class1 {
 
 	}
 	
-	public void firstMetjod(){
+	public void firstMethod(){
 		
 	}
 
