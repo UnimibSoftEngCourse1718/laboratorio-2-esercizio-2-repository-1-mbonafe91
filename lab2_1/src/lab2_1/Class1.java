@@ -6,7 +6,7 @@ public class Class1 {
 
 	}
 	
-	public void secondmethod(){
+	public void secondMethod(){
 		
 	}
 
